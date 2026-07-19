@@ -7,8 +7,7 @@ public class CarryOn {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Shall we carry on?");
         String response = scanner.nextLine();
-        while (response.equalsIgnoreCase("yes")) {
-            System.out.println("Continuing...");
+        while (!response.equals("no")) {
             System.out.println("Shall we carry on?");
             response = scanner.nextLine();
         }
