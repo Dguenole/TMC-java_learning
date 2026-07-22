@@ -8,8 +8,8 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 |--------|----------------|--------|
 | Part 01 | Bases du langage, variables, types, entrées/sorties, conditions | ✅ Complété |
 | Part 02 | Boucles (while, for), logique conditionnelle, compteurs, accumulateurs | ✅ Complété |
-| Part 03 | Listes, méthodes | 🔄 En cours |
-| Part 04 | Objets et classes | ⏳ À venir |
+| Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | ✅ Complété |
+| Part 04 | Objets et classes | 🔄 En cours |
 | Part 05 | Héritage, interfaces | ⏳ À venir |
 | Part 06 | Collections avancées | ⏳ À venir |
 | Part 07 | Traitement de fichiers, exceptions | ⏳ À venir |
@@ -31,13 +31,22 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 - Calcul de moyennes
 - Boucles imbriquées
 
+**Part 03**
+- `ArrayList` — ajout, lecture, parcours avec `for-each`
+- Manipulation de strings (`split`, `trim`, `indexOf`, `contains`)
+- Lecture de données structurées (format `nom,valeur`)
+- Algorithmes de recherche (plus grand, plus petit, index minimal)
+- Accumulation de données (somme, moyenne, compteur)
+- Suppression d'éléments pendant le parcours
+
 ## Structure du repo
 
 ```
 TMC-java_learning/
 ├── part01/         # Variables, conditions, I/O
 ├── part02/         # Boucles, compteurs, accumulateurs
-├── part03/         # À venir
+├── part03/         # ArrayList, strings, algorithmes
+├── part04/         # À venir
 └── ...
 ```
 
