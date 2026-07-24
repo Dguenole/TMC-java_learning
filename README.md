@@ -9,8 +9,8 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 | Part 01 | Bases du langage, variables, types, entrées/sorties, conditions | ✅ Complété |
 | Part 02 | Boucles (while, for), logique conditionnelle, compteurs, accumulateurs | ✅ Complété |
 | Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | ✅ Complété |
-| Part 04 | Objets et classes | 🔄 En cours |
-| Part 05 | Héritage, interfaces | ⏳ À venir |
+| Part 04 | Objets, classes, encapsulation, lecture de fichiers | ✅ Complété |
+| Part 05 | Héritage, interfaces | 🔄 En cours |
 | Part 06 | Collections avancées | ⏳ À venir |
 | Part 07 | Traitement de fichiers, exceptions | ⏳ À venir |
 
@@ -39,6 +39,17 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 - Accumulation de données (somme, moyenne, compteur)
 - Suppression d'éléments pendant le parcours
 
+**Part 04**
+- Classes et objets — conception, instanciation, encapsulation
+- Constructeurs et initialisation des attributs
+- Getters, setters, méthodes métier
+- `toString()` — représentation textuelle des objets
+- Objets comme paramètres et valeurs de retour
+- Listes d'objets (`ArrayList<ObjetPersonnalisé>`)
+- Lecture de fichiers avec `Scanner` + `Paths.get()`
+- Gestion d'exceptions (`try-catch`)
+- Classes utilitaires (Statistics, PaymentCard, etc.)
+
 ## Structure du repo
 
 ```
@@ -46,7 +57,8 @@ TMC-java_learning/
 ├── part01/         # Variables, conditions, I/O
 ├── part02/         # Boucles, compteurs, accumulateurs
 ├── part03/         # ArrayList, strings, algorithmes
-├── part04/         # À venir
+├── part04/         # Objets, classes, fichiers
+├── part05/         # En cours
 └── ...
 ```
 
