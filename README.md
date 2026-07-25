@@ -2,6 +2,15 @@
 
 Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) de l'Université d'Helsinki, réalisés dans le cadre de mon apprentissage Java vers un profil **développeur backend Java/Spring confirmé**.
 
+## Certifications
+
+### Java Programming I — University of Helsinki
+![Java Programming I Certificate](certificate-java-programming-i.png)
+
+🔗 [Vérifier le certificat](https://certificates.mooc.fi/validate/omxr589umfj)
+
+---
+
 ## Progression
 
 | Partie | Thèmes couverts | Statut |
