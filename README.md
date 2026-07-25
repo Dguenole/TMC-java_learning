@@ -5,7 +5,7 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 ## Certifications
 
 ### Java Programming I — University of Helsinki
-![Java Programming I Certificate](certificate-java-programming-i.png)
+![Java Programming I Certificate](Certifications/certificate-java-programming-i.png)
 
 🔗 [Vérifier le certificat](https://certificates.mooc.fi/validate/omxr589umfj)
 
