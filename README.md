@@ -10,8 +10,8 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 | Part 02 | Boucles (while, for), logique conditionnelle, compteurs, accumulateurs | ✅ Complété |
 | Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | ✅ Complété |
 | Part 04 | Objets, classes, encapsulation, lecture de fichiers | ✅ Complété |
-| Part 05 | Héritage, interfaces | 🔄 En cours |
-| Part 06 | Collections avancées | ⏳ À venir |
+| Part 05 | Objets avancés, equals, composition, références | ✅ Complété |
+| Part 06 | Collections avancées | 🔄 En cours |
 | Part 07 | Traitement de fichiers, exceptions | ⏳ À venir |
 
 ## Concepts maîtrisés
@@ -50,6 +50,16 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 - Gestion d'exceptions (`try-catch`)
 - Classes utilitaires (Statistics, PaymentCard, etc.)
 
+**Part 05**
+- Primitives vs références — différences fondamentales
+- Passage d'objets en paramètre (copie de référence)
+- `NullPointerException` — causes et prévention
+- Surcharge de méthodes (`overloading`)
+- `equals()` — comparaison correcte d'objets (`@Override`)
+- Composition d'objets (ex. `Timer` avec deux `ClockHand`)
+- `contains()` sur les listes — utilisation de `equals()`
+- Objets immuables et mutables
+
 ## Structure du repo
 
 ```
@@ -58,7 +68,8 @@ TMC-java_learning/
 ├── part02/         # Boucles, compteurs, accumulateurs
 ├── part03/         # ArrayList, strings, algorithmes
 ├── part04/         # Objets, classes, fichiers
-├── part05/         # En cours
+├── part05/         # Références, equals, composition
+├── part06/         # En cours
 └── ...
 ```
 
