@@ -20,8 +20,8 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 | Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | ✅ Complété |
 | Part 04 | Objets, classes, encapsulation, lecture de fichiers | ✅ Complété |
 | Part 05 | Objets avancés, equals, composition, références | ✅ Complété |
-| Part 06 | Collections avancées | 🔄 En cours |
-| Part 07 | Traitement de fichiers, exceptions | ⏳ À venir |
+| Part 06 | Collections avancées, HashMap, TDD, interfaces | ✅ Complété |
+| Part 07 | Traitement de fichiers, exceptions | 🔄 En cours |
 
 ## Concepts maîtrisés
 
@@ -69,16 +69,27 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 - `contains()` sur les listes — utilisation de `equals()`
 - Objets immuables et mutables
 
+**Part 06**
+- `HashMap<K,V>` — ajout, lecture, itération, cas d'usage
+- `Stack` et structures de données LIFO
+- Interfaces Java (`List`, `Map`, `Comparable`)
+- Test-Driven Development (TDD) — red/green/refactor
+- `Collections.sort()` avec `Comparable`
+- Tri d'objets personnalisés
+- Séparation des responsabilités (classes dédiées)
+
 ## Structure du repo
 
 ```
 TMC-java_learning/
-├── part01/         # Variables, conditions, I/O
-├── part02/         # Boucles, compteurs, accumulateurs
-├── part03/         # ArrayList, strings, algorithmes
-├── part04/         # Objets, classes, fichiers
-├── part05/         # Références, equals, composition
-├── part06/         # En cours
+├── Certifications/  # Certificats obtenus
+├── part01/          # Variables, conditions, I/O
+├── part02/          # Boucles, compteurs, accumulateurs
+├── part03/          # ArrayList, strings, algorithmes
+├── part04/          # Objets, classes, fichiers
+├── part05/          # Références, equals, composition
+├── part06/          # Collections, HashMap, TDD
+├── part07/          # En cours
 └── ...
 ```
 
