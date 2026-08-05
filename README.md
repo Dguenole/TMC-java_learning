@@ -7,7 +7,7 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 ### Java Programming I — University of Helsinki
 ![Java Programming I Certificate](Certifications/certificate-java-programming-i.png)
 
-🔗 [Vérifier le certificat](https://certificates.mooc.fi/validate/omxr589umfj)
+[Vérifier le certificat](https://certificates.mooc.fi/validate/omxr589umfj)
 
 ---
 
@@ -15,13 +15,13 @@ Exercices du cours [Java Programming I & II](https://java-programming.mooc.fi/) 
 
 | Partie | Thèmes couverts | Statut |
 |--------|----------------|--------|
-| Part 01 | Bases du langage, variables, types, entrées/sorties, conditions | ✅ Complété |
-| Part 02 | Boucles (while, for), logique conditionnelle, compteurs, accumulateurs | ✅ Complété |
-| Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | ✅ Complété |
-| Part 04 | Objets, classes, encapsulation, lecture de fichiers | ✅ Complété |
-| Part 05 | Objets avancés, equals, composition, références | ✅ Complété |
-| Part 06 | Collections avancées, HashMap, TDD, interfaces | ✅ Complété |
-| Part 07 | Traitement de fichiers, exceptions | 🔄 En cours |
+| Part 01 | Bases du langage, variables, types, entrées/sorties, conditions | Complété |
+| Part 02 | Boucles (while, for), logique conditionnelle, compteurs, accumulateurs | Complété |
+| Part 03 | ArrayList, manipulation de strings, algorithmes de recherche | Complété |
+| Part 04 | Objets, classes, encapsulation, lecture de fichiers | Complété |
+| Part 05 | Objets avancés, equals, composition, références | Complété |
+| Part 06 | Collections avancées, HashMap, TDD, interfaces | Complété |
+| Part 07 | Traitement de fichiers, exceptions | En cours |
 
 ## Concepts maîtrisés
 
